@@ -1,0 +1,128 @@
+"Phrases"
+{
+	"Weddings Skills"
+	{
+		"en"			"Weddings Skills"
+		"es"			"Habilidades de casados"
+	}
+	"Marry"
+	{
+		"en"			"Marry (cost 3000 credits)"
+		"es"			"Casarse (cuesta 3000 créditos)"
+	}
+	"Revoke"
+	{
+		"en"			"Revoke marry request"
+		"es"			"Revocar solicitud"
+	}
+	"Proposals"
+	{
+		"en"			"Proposals"
+		"es"			"Proposiciones"
+	}
+	"Divorce"
+	{
+		"en"			"Divorce (cost 10000 credits)"
+		"es"			"Divorcio (cuesta 10000 créditos)"
+	}
+	"Couples"
+	{
+		"en"			"Couples"
+		"es"			"Parejas"
+	}
+	"You need to be married and your love in the server for use this command"
+	{
+		"en"			"You need to be married and your love in the server for use this command"
+		"es"			"Necesitas estar casado y tu pareja en el servidor para usar este comando"
+	}
+	
+	"You and your love need to be on the same team"
+	{
+		"en"			"You and your love need to be on the same team"
+		"es"			"Tú y tu amor necesitais estar en el mismo equipo para usar esto"
+	}
+	"You has been teleported to your love"
+	{
+		"en"			"You has been teleported to your love"
+		"es"			"Has sido teleportado a tu amor"
+	}
+	"You and your love need to be alive"
+	{
+		"en"			"You need to be alive and your love dead for use this"
+		"es"			"Tú necesitas estar viv@ y tu amor muert@ para usar esto"
+	}
+	
+	"Your love has been dead for save you"
+	{
+		"en"			"Your love has been dead for save you"
+		"es"			"Tu amor ha muerto para salvarte"
+	}
+	
+	"You has been sacrificed for save to your love of infection"
+	{
+		"en" "You has been sacrificed for save you"
+		"es" "Tu amor se ha sacrificado para salvarte"
+	}
+	"You need to be human and your love zombie for use it"
+	{
+		"en" "You need to be alive and your love dead for use this"
+		"es" "Necesitas estar vivo y tu amor muerto para usar esto"
+	}
+	
+	"Disable beacon in your love"
+	{
+		"en"	"Disable beacon in your love"
+		"es"	"Desactivar baliza en tu amor"
+	}
+	"Enable beacon in your love"
+	{
+		"en"	"Enable beacon in your love"
+		"es"	"Activar baliza en tu amor"
+	}
+	
+	"Teleport to your love position"
+	{
+		"en"	"Teleport to your love position"
+		"es"	"Teletransportarte a tu amor"
+	}
+	
+	"Sacrifice for your love"
+	{
+		"en"	"Sacrifice for your love"
+		"es"	"Sacrificarte por tu amor"
+	}
+	
+	"Beacon in your love disabled"
+	{
+		"en"	"Beacon in your love disabled"
+		"es"	"Baliza en tu amor desactivada"
+	}
+	"Beacon in your love enabled"
+	{
+		"en"	"Beacon in your love enabled"
+		"es"	"Baliza en tu amor activada"
+	}
+	
+	"You dont have enought credits to weddings (cost 3000 credits)"
+	{
+		"en"	"You dont have enought credits to weddings (cost 3000 credits)"
+		"es"	"No tienes suficiente dinero para bodas (cuesta 3000 créditos)"
+	}
+	"You dont have enought credits to divorce (cost 10000 credits)"
+	{
+		"en"	"You dont have enought credits to divorce (cost 10000 credits)"
+		"es"	"No tienes suficiente dinero para divorciarte (cuesta 10000 créditos)"
+	}
+	
+	"Both need to be ingame to divorce"
+	{
+		"en"	"Both need to be ingame to divorce"
+		"es"	"Ambos necesitais estar en partida para divorciaros"
+	}
+	
+	"Both need to be ingame to weddings"
+	{
+		"en"	"Both need to be ingame to weddings"
+		"es"	"Ambos necesitais estar en partida para casaros"
+	}
+}
